@@ -1,0 +1,16 @@
+
+WebPalette/src/WebPalette/.gitignore
+
+WebPalette/.pydevproject
+
+WebPalette/.project
+
+WebPalette/README
+
+WebPalette/src/WebPalette/data/.gitignore
+
+WebPalette/src/WebPalette/processor/.gitignore
+
+WebPalette/src/WebPalette/services/.gitignore
+
+WebPalette/test/WebPalette/services/.gitignore
